@@ -1,0 +1,2 @@
+C:\Users\TALAL\Desktop\DominusGUI\x64\Debug\DominusGUI.exe
+C:\Users\TALAL\Desktop\DominusGUI\x64\Debug\DominusGUI.pdb
